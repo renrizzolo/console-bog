@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renrizzolo/console-bog.git"
+  },
   "author": "Ren Rizzolo",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renrizzolo/console-bog/issues"
+  },
+  "homepage": "https://github.com/renrizzolo/console-bog#readme"
 }
